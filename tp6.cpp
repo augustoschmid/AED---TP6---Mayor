@@ -10,7 +10,7 @@ using namespace std;
 
 int main() {
 int numero, maximo;
-
+numero = 0;
 cout << "Ingrese un numero entero mayor que cero." << endl;
 cout << "Si ingresa 0 finalizara el programa informando el mayor numero" << endl << endl;
 cin >> numero;
