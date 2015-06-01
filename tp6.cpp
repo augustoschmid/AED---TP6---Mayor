@@ -1,6 +1,6 @@
 /* TP # 6 - Dados un conjunto de valores enteros y positivos determinar e informar el mayor
 TOMAS AUGUSTO SCHMID
-Última modificación: 25/05/2015
+Última modificación: 01/06/2015
 
 */
 
